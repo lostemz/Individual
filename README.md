@@ -1,6 +1,7 @@
 # Individual
 My First repository
 
------------------------------------------------
-안녕하세요 lostemz 입니다.
-앞으로 AI 관련 예제들을 풀것입니다.
+----------------------------------------------
+Hello I m studying AI will make a few project 
+
+and this work is only just my curious 
